@@ -197,10 +197,16 @@ Este projeto foi desenvolvido com foco educacional para reforçar os conceitos b
 
 Pedro Giffoni
 
-GitHub:
 
-https://github.com/PedroGiffoni/DesafioAula3Java-Capacita-I-Rede
+<p align="left">
+  <a href="[https://github.com/PedroGiffoni">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/>
+  </a>
 
-Linkedin:
+  <a href="https://linkedin.com/in/pedrogiffoni">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/>
+  </a>
+</p>
 
-https://www.linkedin.com/in/pedrogiffoni
+
+
