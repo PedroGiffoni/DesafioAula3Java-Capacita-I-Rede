@@ -30,9 +30,9 @@ Programa que:
 ## Exemplo de entrada
 
 ```text
-8.5
-7.0
-6.1
+8,5
+7,0
+6,1
 ```
 
 ## Exemplo de saída
@@ -74,11 +74,11 @@ Agora o usuário pode:
 
 ```text
 4
-5.0
-6.0
-4.5
-6.5
-6.0
+5
+6
+4,5
+6,5
+6,0
 ```
 
 ## Exemplo de saída
